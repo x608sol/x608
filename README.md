@@ -1,6 +1,5 @@
 # x608 Protocol
 
-32bTwFdHRuTGiEkeXGMorwKA7CZo68v5dwe8S2Yppump
 
 An enhanced HTTP 402 payment protocol built on top of Coinbase's x402 system, adding multi-currency support, escrow safety, streaming payments, and agent-friendly features.
 
